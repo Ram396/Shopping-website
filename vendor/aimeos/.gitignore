@@ -1,8 +1,6 @@
-tmp/
-vendor/
-config/
-confdoc.ser
-composer.lock
-coveralls.json
+.idea
 .phpunit.result.cache
-
+coveralls.json
+composer.lock
+coverage.xml
+vendor/
