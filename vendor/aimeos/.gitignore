@@ -1,6 +1,8 @@
-.phpunit.result.cache
-.phpunit.cache
+tmp/
+vendor/
+config/
+confdoc.ser
+composer.lock
 coveralls.json
-coverage.xml
-*.log
-*.ser
+.phpunit.result.cache
+
